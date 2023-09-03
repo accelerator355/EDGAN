@@ -9,6 +9,8 @@ Load, split, normalize data.
 # networks.py
 Architectures of generator and discriminator of EDGAN.
 # set_seed.py
-Set random seed of the experiments for reproducibility
+Set random seed of the experiments for reproducibility.
+# EDGAN.py
+Model training and testing.
 # main.py
-Main function to start the implementation of the codes
+Main function to start the implementation of the codes.
